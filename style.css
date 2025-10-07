@@ -25,11 +25,19 @@ button {
   transition: 0.2s;
 }
 
+
+
 button:hover {
   background-color: darkred;
   transform: scale(1.05);
 }
 
+
+
+#author{
+  color: rgb(128, 128, 128. 0.7);
+
+}
 p {
   margin-top: 20px;
   font-size: 1.5rem;
